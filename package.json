@@ -1,0 +1,31 @@
+{
+  "name": "es6-features-using-babel",
+  "version": "1.0.0",
+  "description": "Illustrate ES6 Features using Babel transpiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwani-luhaniwal/es6-to-es5-using-babel.git"
+  },
+  "keywords": [
+    "ES6",
+    "Features",
+    "Babel",
+    "ES6",
+    "with",
+    "Babel"
+  ],
+  "author": "Ashwani K Luhaniwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashwani-luhaniwal/es6-to-es5-using-babel/issues"
+  },
+  "homepage": "https://github.com/ashwani-luhaniwal/es6-to-es5-using-babel#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
